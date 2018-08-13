@@ -66,6 +66,8 @@ First paper
 
 :heavy_check_mark: [Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406.pdf)[[code]](https://github.com/LMescheder/GAN_stability)（ICML 2018）
 
+:heavy_check_mark: [Dropout-GAN: Learning from a Dynamic Ensemble of Discriminators] [[Paper]](https://arxiv.org/abs/1807.11346)
+
 ## Generation High-Quality Images
 
 :heavy_check_mark: [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1511.06434)[[Code]](https://github.com/jacobgil/keras-dcgan)(Gan with convolutional networks)(ICLR)
